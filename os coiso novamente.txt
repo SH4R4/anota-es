@@ -8,8 +8,6 @@ Quimica: Trabalho 27/11 G1, Prova 25/11 com uma folha pra consulta com nome
 ___________________________________________________________________________
 
 Terça /
-
-Programação Web: ""trabalho de php e mysql""
 Matematica: exercicios ap2 matematica financeira 
 
 
