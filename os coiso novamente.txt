@@ -4,31 +4,20 @@ ___________________________________________________________________________
 Segunda /
 
 Quimica: Trabalho 27/11 G1, Prova 25/11 com uma folha pra consulta com nome
-Banco de dados: Fazer pesquisa sobre as funções do MySql e se possivel Case
 
 ___________________________________________________________________________
 
 Terça /
 
 Programação Web: ""trabalho de php e mysql""
-Historia: ultima presença 26/11
-Matematica: prova de matematica de tema provão paulista 19/11 e recuperação 26/11
+Matematica: exercicios ap2 matematica financeira 
 
 
 _________________________________________________________________________________
 
 Quarta /
 
-Etica: ultima presença 27/11
 Inglês: Roda de conversa sobre o seu livro (Oblong Box) ela vai fazer perguntas inéditas
-
-
-________________________________________________________________________________________
-
-Quinta /
-
-Desenvolvimento de Sistemas: atividade bimestral entregue 
-
 _______________________________________________________________________
 
 Sexta /
@@ -36,61 +25,3 @@ Sexta /
 Lingua Portuguesa: prova com uma folha de consulta 22/11
 Parnasianismo, Simbolismo, verbos, adverbios e conjunções
 ---------------------------------------------------------------------------------------------
-
-Liberação das matérias e seus respectivos professores
-++ = a matéria mais importante é desse dia
-{} = data maxima 
-
-_____________________________________________________
-
-Segunda:
-
-Rafael - Quimica: 25/11
-
-Regina - Educação Fisica: 25/11++
-
-Najara - Banco de dados: 25/11++
-
-__________________________________
-
-Terça:
-
-Luis(?) - Programação web: 26/11++
-
-Milton - Historia: {29/11}
-
-João Edson - Matematica: 26/11
-
-__________________________________
-
-Quarta:
-
-Marcio(?) - Programação Mobile: 27/11++
-
-Fausto - Biologia: 27/11++
-
-Neusa - Ética: 27/11++
-
-Veruska - Inglês: 27/11
-
-________________________________________
-
-Quinta:
-
-Davi Villar/Najara - Desenvolvimento de Sistemas: 28/11
-
-Fausto - Biologia: 28/11++
-
-Larissa - Geografia: 28/11++
-
-_______________________________________________________
-
-Sexta:
-
-Gustavo - Lingua Portuguesa: 22/11
-
-Milton - Historia: {29/11}
-
-Marco - Fisica: {29/11}
-
-___________________________________
